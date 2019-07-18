@@ -1,0 +1,4 @@
+spring:
+  redis:
+    url: rediss://localhost:6379
+    ssl: true
